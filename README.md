@@ -1,5 +1,5 @@
 # Geometric Battle For Survival
-An arcade game for android that I developed in the summer of 2017.
+An arcade game for android phones that I developed in the summer of 2017. I used the Unity game engine along with my own soundtrack and artwork.
 # What I Learned
 - Object-oriented programming
 - User achievements and leaderboards with Google Play Services
@@ -7,4 +7,4 @@ An arcade game for android that I developed in the summer of 2017.
 - Graphical user interface
 - My first big project
 # How To Use
-To play the game, all you have to do is install and run the apk on an android phone.
+Install the apk that I've uploaded in the latest release.
