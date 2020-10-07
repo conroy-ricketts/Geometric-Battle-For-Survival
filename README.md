@@ -5,6 +5,6 @@ An arcade game for android phones that I developed in the summer of 2017. I used
 - User achievements and leaderboards with Google Play Services
 - Creation of android applications
 - Graphical user interface
-- My first big project
+- My first completed project/application
 # How To Use
 Install the apk that I've uploaded in the latest release.
